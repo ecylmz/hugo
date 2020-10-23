@@ -2,7 +2,7 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://ecylmz.com/hugo"
+baseURL = "https://test.ecylmz.com"
 title = "Emre Can Yılmaz"
 enableRobotsTXT = true
 enableEmoji = true
