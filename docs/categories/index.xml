@@ -5,65 +5,11 @@
     <link>https://test.ecylmz.com/categories/</link>
     <description>Recent content in Categories on Emre Can Yılmaz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate><atom:link href="https://test.ecylmz.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>docs</title>
-      <link>https://test.ecylmz.com/categories/docs/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://test.ecylmz.com/categories/docs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>https://test.ecylmz.com/categories/index/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://test.ecylmz.com/categories/index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://test.ecylmz.com/categories/math/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://test.ecylmz.com/categories/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://test.ecylmz.com/categories/shortcodes/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://test.ecylmz.com/categories/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>https://test.ecylmz.com/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://test.ecylmz.com/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://test.ecylmz.com/categories/test/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://test.ecylmz.com/categories/test/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://test.ecylmz.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
       <link>https://test.ecylmz.com/categories/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://test.ecylmz.com/categories/development/</guid>
       <description></description>
@@ -72,18 +18,18 @@
     <item>
       <title>golang</title>
       <link>https://test.ecylmz.com/categories/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://test.ecylmz.com/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Syntax Highlighting</title>
-      <link>https://test.ecylmz.com/categories/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      <title>index</title>
+      <link>https://test.ecylmz.com/categories/index/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://test.ecylmz.com/categories/syntax-highlighting/</guid>
+      <guid>https://test.ecylmz.com/categories/index/</guid>
       <description></description>
     </item>
     
