@@ -1,0 +1,115 @@
+- id: archive
+  translation: Arşiv
+
+- id: tags
+  translation: Etiketler
+
+- id: tag
+  translation: "Etiket: "
+
+- id: categories
+  translation: Kategoriler
+
+- id: category
+  translation: "Kategori: "
+
+- id: authors
+  translation: Yazarlar
+
+- id: author_item
+  translation: "Yazar: "
+
+# posts
+- id: prev
+  translation: Önceki
+
+- id: next
+  translation: Sonraki
+
+- id: prev_post
+  translation: Önceki
+
+- id: next_post
+  translation: Sonraki
+
+- id: toc
+  translation: İçindekiler
+
+- id: readmore
+  translation: Daha fazla
+
+- id: reward
+  translation: Reward
+
+- id: rewardAlipay
+  translation: Alipay
+
+- id: rewardWechat
+  translation: Wechat
+
+- id: seeMarkDown
+  translation: The Markdown version »
+
+- id: loadDisqus
+  translation: Disqus Yorumlarını Göster
+
+# posts.header
+- id: wordCount
+  translation: "{{.Count}} kelime"
+
+- id: readingTime
+  translation: "{{.Count}} dakikalık okuma"
+
+# copyright
+- id: author
+  translation: Yazar
+
+- id: lastMod
+  translation: Son Güncelleme
+
+- id: markdown
+  translation: Markdown
+
+- id: license
+  translation: Lisans
+
+# counter
+- id: counter_archives
+  translation: "{{.Count}} posts In Total"
+
+- id: counter_tagcloud
+  translation: "{{.Count}} Tags In Total"
+
+- id: counter_categories
+  translation: "{{.Count}} Categories In Total"
+
+# other
+- id: morePost
+  translation: "Daha Fazla Gönderi >>>"
+
+- id: read_ru
+  translation: Читать на русском
+
+- id: read_es
+  translation: Leer en español
+
+- id: read_zh-cn
+  translation: 中文阅读
+
+- id: read_zh-tw
+  translation: 中文閱讀
+
+- id: read_pt
+  translation: Leia em português
+
+- id: read_fr
+  translation: Lire en français
+
+- id: read_de
+  translation: Lese in Deutsch
+
+- id: language
+  translation: Language
+
+- id: comments
+  translation: Comments
