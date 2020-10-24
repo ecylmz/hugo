@@ -17,15 +17,18 @@
       
       <guid>https://test.ecylmz.com/about/</guid>
       
-        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
-&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;Merhaba,&lt;/p&gt;
+&lt;p&gt;Ben Emre Can Yılmaz. 1991 Samsun doğumluyum. Samsun&amp;rsquo;da yaşıyorum. Tüm eğitim
+öğretim hayatım Samsun&amp;rsquo;da geçti ve geçmeye devam ediyor.&lt;/p&gt;
+&lt;p&gt;Eğitim-Öğretim hayatım:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lisans (2009 - 2013):&lt;/strong&gt; Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği&lt;br&gt;
+&lt;strong&gt;Yüksek Lisans (2013 - 2016):&lt;/strong&gt; Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği Anabilim Dalı&lt;br&gt;
+&lt;strong&gt;Doktora (2016 - 20..):&lt;/strong&gt; Ondokuz Mayıs Üniversitesi Hesaplamalı Bilimler Anabilim Dalı&lt;/p&gt;
+&lt;p&gt;2009 yılından beri Linux kullanıcısıyım. Sistem yönetimini sevdiğim kadar programlayı da seviyorum. Her iki işi de yapıyorum.&lt;/p&gt;
+&lt;p&gt;Oyun oynamayı da ayrı seviyorum. Dota 2 favori oyunumdur. Birlikte oynamak
+istersen iletişime geçebilirsin.&lt;/p&gt;
+&lt;p&gt;Sosyal medya hesaplarıma sitenin alt kısmından ulaşabilirsin.&lt;/p&gt;
+&lt;p&gt;Sağlıcakla.&lt;/p&gt;
 </description>
       
     </item>
