@@ -4,21 +4,25 @@ date: 2017-08-20T21:38:52+08:00
 lastmod: 2017-08-28T21:41:52+08:00
 menu: "main"
 weight: 50
-
-# you can close something for this content if you open it in config.toml.
-comment: false
-mathjax: false
 ---
 
-Hugo is a static site engine written in Go.
+Merhaba,
 
+Ben Emre Can Yılmaz. 1991 Samsun doğumluyum. Samsun'da yaşıyorum. Tüm eğitim
+öğretim hayatım Samsun'da geçti ve geçmeye devam ediyor.
 
-It makes use of a variety of open source projects including:
+Eğitim-Öğretim hayatım:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+**Lisans (2009 - 2013):** Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği  
+**Yüksek Lisans (2013 - 2016):** Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği Anabilim Dalı  
+**Doktora (2016 - 20..):** Ondokuz Mayıs Üniversitesi Hesaplamalı Bilimler Anabilim Dalı
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+2009 yılından beri Linux kullanıcısıyım. Sistem yönetimini sevdiğim kadar programlayı da seviyorum. Her iki işi de yapıyorum.
+
+Oyun oynamayı da ayrı seviyorum. Dota 2 favori oyunumdur. Birlikte oynamak
+istersen iletişime geçebilirsin.
+
+Sosyal medya hesaplarıma sitenin alt kısmından ulaşabilirsin.
+
+Sağlıcakla.
 
