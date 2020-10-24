@@ -36,10 +36,10 @@
   translation: İçindekiler
 
 - id: readmore
-  translation: Daha fazla
+  translation: Daha fazla oku
 
 - id: reward
-  translation: Reward
+  translation: Ödül
 
 - id: rewardAlipay
   translation: Alipay
@@ -48,7 +48,7 @@
   translation: Wechat
 
 - id: seeMarkDown
-  translation: The Markdown version »
+  translation: Markdown hali »
 
 - id: loadDisqus
   translation: Disqus Yorumlarını Göster
@@ -75,13 +75,13 @@
 
 # counter
 - id: counter_archives
-  translation: "{{.Count}} posts In Total"
+  translation: "Toplam {{.Count}} Gönderi"
 
 - id: counter_tagcloud
-  translation: "{{.Count}} Tags In Total"
+  translation: "Toplam {{.Count}} Etiket"
 
 - id: counter_categories
-  translation: "{{.Count}} Categories In Total"
+  translation: "Toplam {{.Count}} Kategori"
 
 # other
 - id: morePost
@@ -109,7 +109,7 @@
   translation: Lese in Deutsch
 
 - id: language
-  translation: Language
+  translation: Dil
 
 - id: comments
-  translation: Comments
+  translation: Yorumlar
