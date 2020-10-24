@@ -81,5 +81,5 @@ defaultContentLanguage = "tr"           # Default language to use
 
   [params.search.google]    # google custom search, see https://cse.google.com
     enable = true
-    id = "002186711602136249422:q1gkomof_em"
+    id = "a4770c3d8e64a1523"
     title = "Ara"
