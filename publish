@@ -11,3 +11,5 @@ echo "test.ecylmz.com" > docs/CNAME
 git add .
 
 git commit -m "republish"
+
+git push
